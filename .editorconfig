@@ -1,0 +1,22 @@
+# EditorConfig для всех файлов
+root = true
+
+[*]
+# Устанавливает отступы в 4 пробела
+indent_style = space
+indent_size = 4
+
+# Конец строки - это перевод строки (LF)
+end_of_line = lf
+
+# Кодировка файла UTF-8
+charset = utf-8
+
+# Обрезка лишних пробелов в конце строк
+trim_trailing_whitespace = true
+
+# Обязательно перевод строки в конце файла
+insert_final_newline = true
+
+# Максимальная длина строки 80 символов
+max_line_length = 80
